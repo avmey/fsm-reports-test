@@ -16,5 +16,27 @@
     ],
     "classKeys": [],
     "url": "https://d3muy0hbwp5qkl.cloudfront.net"
+  },
+  {
+    "src": "data/src/current-vector.gpkg",
+    "layerName": "eez_mr_osm",
+    "geo_type": "vector",
+    "datasourceId": "eez",
+    "formats": [
+      "fgb"
+    ],
+    "classKeys": [],
+    "created": "2023-02-04T18:12:39.142Z",
+    "lastUpdated": "2023-02-04T18:12:39.142Z",
+    "keyStats": {
+      "total": {
+        "total": {
+          "count": 1,
+          "sum": null,
+          "area": 3032525677797.563
+        }
+      }
+    },
+    "propertiesToKeep": []
   }
 ]
