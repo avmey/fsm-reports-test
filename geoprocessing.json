@@ -2,18 +2,7 @@
   "author": "avmey <avmey98@gmail.com>",
   "organization": "",
   "region": "us-west-1",
-  "clients": [
-    {
-      "name": "RasterStats",
-      "description": "Calculates sketch raster stats",
-      "source": "src/clients/RasterStats.tsx"
-    }
-  ],
-  "preprocessingFunctions": [
-    "src/functions/clipToBounds.ts",
-    "src/functions/clipToOceanEez.ts"
-  ],
-  "geoprocessingFunctions": [
-    "src/functions/rasterSum.ts"
-  ]
+  "clients": [],
+  "preprocessingFunctions": [],
+  "geoprocessingFunctions": []
 }
